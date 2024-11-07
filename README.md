@@ -19,7 +19,7 @@ A simple Todo application built with Flask for the backend and HTML, CSS, JavaSc
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/flask-todo-app.git
+    git clone https://github.com/JayanthMalladi/to-do-app.git
     cd flask-todo-app
     ```
 
